@@ -1,7 +1,7 @@
 Mirror of 7zip source code (stable)
 
 # Compile under Windows (personal notes)
-//.\7zip-mirror\CPP\7zip\Bundles\Format7zF>nmake CPU=AMD64 NEW_COMPILER=1 MY_STATIC_LINK=1 NO_BUFFEROVERFLOWU=1
+```.\7zip-mirror\CPP\7zip\Bundles\Format7zF>nmake CPU=AMD64 NEW_COMPILER=1 MY_STATIC_LINK=1 NO_BUFFEROVERFLOWU=1```
 
 # Copy of [DOC/Readme.txt](DOC/readme.txt):
 
